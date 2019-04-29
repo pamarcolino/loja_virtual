@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "107940569374",
+    "firebase_url": "https://lojaflutter-22b64.firebaseio.com",
+    "project_id": "lojaflutter-22b64",
+    "storage_bucket": "lojaflutter-22b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107940569374:android:8d6aaffd393bf349",
+        "android_client_info": {
+          "package_name": "br.com.softpam.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107940569374-uqb47evvtd4ff3t4nqs7kshio6j8h0jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_Uap2F3_igtAqcA92R3y2qcu6vs_vYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107940569374:android:4f430e3450a70b8a",
+        "android_client_info": {
+          "package_name": "com.softpam.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107940569374-uqb47evvtd4ff3t4nqs7kshio6j8h0jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_Uap2F3_igtAqcA92R3y2qcu6vs_vYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
